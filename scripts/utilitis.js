@@ -10,3 +10,6 @@ function getInputFieldByValuedIdInnertext(id){
     const inputNumber = parseFloat(input);
     return inputNumber;
 }
+
+
+
